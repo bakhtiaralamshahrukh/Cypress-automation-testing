@@ -15,9 +15,9 @@ I have created a Cypress Automation project for automating login and make an hea
 
 ## How to run this project
 - Clone this project
-- To run and report generation hit these command in VS Code terminal  
-  -npm i
-  -npx cypress run
+- To run and report generation hit these command in VS Code terminal
+- npm i
+- npx cypress run
 
 ## Technology:
 - Cypress
